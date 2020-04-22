@@ -1,3 +1,5 @@
+.vscode
+precessenv.ts
 # Logs
 logs
 *.log
